@@ -6,7 +6,7 @@ It maked on Windows and it works only there at the moment.
 To start:
 - modify text.txt
 - use .bat file or from cmd:
-  node dwTTS.js
+  `node dwTTS.js`
   
   
 To use it on Linux or Mac, download ffmpeg program and put it into project folder and set the virtual env path. If you want, create a PR ; )
