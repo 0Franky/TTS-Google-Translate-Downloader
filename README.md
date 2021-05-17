@@ -4,6 +4,7 @@ Simple program to download google translate's tts
 It maked on Windows and it works only there at the moment.
 
 To start:
+- npm i (only first time)
 - modify text.txt
 - use .bat file or from cmd:
   `node dwTTS.js`
